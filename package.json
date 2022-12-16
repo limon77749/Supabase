@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "gulpfile.js",
   "type": "module",
-  "homepage": "https://github.com/limon77749/Supabase.git",
+  "homepage": "https://limon77749.github.io/",
   "scripts": {
     "dev": "gulp",
     "build": "gulp build --build",

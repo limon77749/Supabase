@@ -9,6 +9,7 @@
     "build": "gulp build --build",
     "zip": "gulp deployZIP --build",
     "deployFTP": "gulp deployFTP --build",
+    "deploy": "gh-pages -d dist",
     "svgSprive": "gulp svgSprive"
   },
   "author": "FLS",
